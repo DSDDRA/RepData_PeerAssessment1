@@ -4,7 +4,7 @@ author: "TSA"
 date: "4/19/2019"
 output:
   html_document:
-    df_print: paged
+    self_contained: no
 urlcolor: blue
 ---
 
